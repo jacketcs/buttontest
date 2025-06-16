@@ -3,6 +3,6 @@
 
     // https://vitejs.dev/config/
     export default defineConfig({
-      base: '/buttontest/', // <--- ADD THIS LINE
+      base: '/buttontest/', 
       plugins: [react()],
     })
